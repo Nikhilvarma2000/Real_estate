@@ -5,7 +5,7 @@ const AboutUs = () => {
     <div className="font-sans">
       {/* About Us Hero Section */}
       <section className="relative bg-gradient-to-r from-teal-400 to-teal-600 py-32 sm:py-40 px-6 text-white text-center rounded-b-3xl overflow-hidden">
-        <div className="absolute inset-0 bg-cover bg-center opacity-60" style={{ backgroundImage: 'url("https://via.placeholder.com/1600x900")' }}></div> {/* Hero Background Image */}
+        <div className="absolute inset-0 bg-cover bg-center opacity-60" style={{ backgroundImage: 'url("https://www.wallpaperuse.com/wallp/59-593333_real-estate-wallpaper-hd.jpg")' }}></div> {/* Hero Background Image */}
         <div className="relative z-10 max-w-3xl mx-auto">
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold mb-8 animate__animated animate__fadeIn animate__delay-1s hover:text-teal-200 transition-all duration-500 ease-in-out transform hover:scale-110">
             About RealEstate
@@ -93,29 +93,29 @@ const AboutUs = () => {
           <div className="flex justify-center flex-wrap gap-8">
             <div className="text-center w-1/3 sm:w-1/4">
               <img
-                src="https://via.placeholder.com/150"
+                src="https://w0.peakpx.com/wallpaper/414/267/HD-wallpaper-rohit-sharma-portrait-cricketer-hitman.jpg"
                 alt="Team Member 1"
                 className="w-32 h-32 rounded-full mx-auto mb-4 shadow-lg transform transition duration-300 hover:scale-110 hover:shadow-xl"
               />
-              <h3 className="text-xl font-semibold text-gray-800">John Doe</h3>
+              <h3 className="text-xl font-semibold text-gray-800">Rohit Sharma</h3>
+              <p className="text-lg text-gray-600">Vice Chairman</p>
+            </div>
+            <div className="text-center w-1/3 sm:w-1/4">
+              <img
+                src="https://e0.pxfuel.com/wallpapers/35/633/desktop-wallpaper-ms-dhoni-mahendra-singh-dhoni.jpg"
+                alt="Team Member 2"
+                className="w-32 h-32 rounded-full mx-auto mb-4 shadow-lg transform transition duration-300 hover:scale-110 hover:shadow-xl"
+              />
+              <h3 className="text-xl font-semibold text-gray-800">Ms Dhoni</h3>
               <p className="text-lg text-gray-600">CEO & Founder</p>
             </div>
             <div className="text-center w-1/3 sm:w-1/4">
               <img
-                src="https://via.placeholder.com/150"
-                alt="Team Member 2"
-                className="w-32 h-32 rounded-full mx-auto mb-4 shadow-lg transform transition duration-300 hover:scale-110 hover:shadow-xl"
-              />
-              <h3 className="text-xl font-semibold text-gray-800">Jane Smith</h3>
-              <p className="text-lg text-gray-600">Head of Sales</p>
-            </div>
-            <div className="text-center w-1/3 sm:w-1/4">
-              <img
-                src="https://via.placeholder.com/150"
+                src="https://api.bdcrictime.com/kohli-passport-pic-08_10_2023.jpg"
                 alt="Team Member 3"
                 className="w-32 h-32 rounded-full mx-auto mb-4 shadow-lg transform transition duration-300 hover:scale-110 hover:shadow-xl"
               />
-              <h3 className="text-xl font-semibold text-gray-800">David Brown</h3>
+              <h3 className="text-xl font-semibold text-gray-800">Virat Kohli</h3>
               <p className="text-lg text-gray-600">Lead Agent</p>
             </div>
           </div>

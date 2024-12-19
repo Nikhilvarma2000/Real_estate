@@ -18,16 +18,16 @@ const ContactUs = () => {
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Our Office Location</h3>
                 <p className="text-gray-600 mt-2">
-                  123 RealEstate Ave, Suite 101, City, State, 12345
+                  Huzurnagar
                 </p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Phone</h3>
-                <p className="text-gray-600 mt-2">+1 (123) 456-7890</p>
+                <p className="text-gray-600 mt-2">9150299458</p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Email</h3>
-                <p className="text-gray-600 mt-2">contact@realestate.com</p>
+                <p className="text-gray-600 mt-2">nikhilvarmareddycharla.com</p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Follow Us</h3>
@@ -105,7 +105,7 @@ const ContactUs = () => {
             <iframe
               title="Real Estate Location"
               className="w-full h-full"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.715024381123!2d144.96316031531612!3d-37.81361167975165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d45e6bcce1f%3A0x4059bc87cf58a70!2sFederation+Square!5e0!3m2!1sen!2sus!4v1516118576123"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5399.003290334659!2d79.8708569479785!3d16.892120432825624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a351b0036f87be9%3A0x7dbcabbe0c783867!2sHuzur%20Nagar%2C%20Telangana%20508204!5e0!3m2!1sen!2sin!4v1734584321544!5m2!1sen!2sin"
               style={{ border: 0 }}
               allowFullScreen=""
               loading="lazy"
